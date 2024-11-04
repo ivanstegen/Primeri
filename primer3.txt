@@ -1,0 +1,7 @@
+<table border="3" >
+    	<tr>
+		<caption align="center">Combo</caption>
+       		<td>Тагове</td>
+        		
+    	</tr>
+</table>
